@@ -120,7 +120,7 @@ There were **24,008 canceled bookings** and **63,220 bookings that were not canc
 
 City Hotel had a higher cancellation rate of **30.10%**, compared with **23.48%** for Resort Hotel.
 
-Online TA also recorded a relatively high cancellation rate of **35.38%**.
+Online TA brought 59% of bookings but about 76% of all cancellations (35.4% cancellation rate).
 
 This indicates that cancellation management should be considered at both the hotel and booking-channel level.
 
@@ -148,7 +148,7 @@ Together, the 1–5 night categories accounted for **71,023 bookings**, showing 
 
 ### Estimated Revenue
 
-City Hotel generated estimated revenue of **18,759,633.36**, compared with **15,686,621.57** for Resort Hotel.
+City Hotel generated estimated revenue of **18,759,633.36**, compared with **15,686,621.57** for Resort Hotel,but the Resort earns more per booking (about 462 vs 352)
 
 City Hotel therefore generated **3,073,011.79 more estimated revenue**.
 
@@ -201,10 +201,17 @@ This project provided practical experience in taking a raw dataset through the c
 
 Rather than focusing only on producing charts, the project involved identifying and investigating data-quality issues, making justified cleaning decisions, creating useful analytical variables, interpreting relationships in the data, and translating the results into business insights and recommendations.
 
-## Project File
-
-- `Hotel_Booking_Demand_Analysis.ipynb` — Complete Jupyter Notebook containing the data loading, cleaning, analysis, transformation, visualization, findings, and recommendations.
+## 📁 Repository Structure
+```
+├── Hotel_Booking_Demand_Analysis.ipynb
+├── Hotel_Booking_Demand_Analysis_Report.pdf
+├── data/
+│   └── hotel_bookings.csv
+└── README.md
 
 ## Skills Demonstrated
 
 **Python | Pandas | Seaborn | Matplotlib | Data Cleaning | Exploratory Data Analysis | Data Transformation | Feature Engineering | Data Visualization | Correlation Analysis | Business Analysis**
+
+## 👤 Author
+**Zainab Danjuma**
