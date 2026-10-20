@@ -205,6 +205,7 @@ Rather than focusing only on producing charts, the project involved identifying 
 ```
 ├── Hotel_Booking_Demand_Analysis.ipynb
 ├── Hotel_Booking_Demand_Analysis_Report.pdf
+├── Visualizations 
 ├── data/
 │   └── hotel_bookings.csv
 └── README.md
